@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanjain762&show_icons=true&locale=en&layout=compact" alt="aryanjain762" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=aryanjain762](https://www.linkedin.com/in/aryan-jain-14717918a/)" alt="aryanjain" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjain762&theme=dark&hide_border=true" alt="aryanjain762" /></p>
